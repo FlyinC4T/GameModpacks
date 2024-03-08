@@ -1,6 +1,6 @@
 **Update** : 8. March, 2024 - 19:11/7:11 PM GMT+1
 
-github better, fuck steam collections (they don't save configs 🥵)
+***Don't worry I will soon enough (maybe) add a steam collection to get the mods faster, unless tmodloader implements "download missing mods" for that***
 # My Terraria Modpack (C4TPack)
 This is a modpack, which can be played with TModLoader.
 - The pack includes Calamity with some of Fargo's mods, along with multiple QoL' and vanilla tweaking mods.
