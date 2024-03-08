@@ -1,3 +1,5 @@
+**Update** : 8. March, 2024 - 19:11/7:11 PM GMT+1
+
 github better, fuck steam collections (they don't save configs 🥵)
 # My Terraria Modpack (C4TPack)
 This is a modpack, which can be played with TModLoader.
