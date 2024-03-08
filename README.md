@@ -10,9 +10,11 @@ The biggest difference with *this modpack* and just downloading mods manually, i
 Aside from that, it's easy to update the modpack by simply following the same steps as the first time. Feel free to change anything you want, let me know if anything should added / changed / removed or fixed!
 
 ## How to install (ZIP Method)
+*You will need TModLoader (on Steam) for this*
 1. Download the ZIP of the pack.
-2. Insert the C4TPack (likely from `TerrariaModpack_main.zip`) with your modpack directory.
-3. Now enter TModLoader, and download the missing mods from the modpack.
+2. Start TModLoader, in the main menu, head into Workshop > Mod Packs > Open Mod Pack Folder.
+3. Insert the C4TPack (likely from `TerrariaModpack_main.zip`) into your modpack directory.
+4. Now enter TModLoader, and download the missing mods from the modpack.
 
 
 
